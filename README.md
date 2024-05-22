@@ -14,7 +14,7 @@ Este é um aplicativo React Native criado com Expo, que apresenta informações 
 ## Instalação
 
    ```bash
-   git clone https://github.com/SeuUsuario/SeuRepositorio.git
+   git clone [https://github.com/SeuUsuario/SeuRepositorio.git](https://github.com/PhYllipepdm/App_ReactNative_Expo)
    cd SeuRepositorio
 ```
  Instale as dependências:
